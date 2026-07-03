@@ -1,5 +1,8 @@
 ---
 title: 深圳吃喝玩乐推荐｜游玩篇
+layout: default
+nav_order: 1
+has_children: false
 ---
 
 # 深圳吃喝玩乐推荐｜游玩篇
