@@ -4,9 +4,9 @@ layout: default
 nav_order: 1
 ---
 
-# Creeper998 · 项目展示
+# BUILDING THINGS<br>THAT ACTUALLY RUN
 
-这里汇总我在 GitHub 上维护和公开的项目。
+我是 Creeper998。这里不是简历，是一组能够打开、运行和继续迭代的项目。
 
 [查看 GitHub 主页](https://github.com/Creeper998){: .btn .btn-primary }
 
