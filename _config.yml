@@ -1,5 +1,5 @@
-title: 深圳吃喝玩乐推荐
-description: 一份朋友写给朋友的深圳攻略
+title: Creeper998 · Projects
+description: Creeper998 的公开项目展示
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
@@ -15,4 +15,4 @@ back_to_top: true
 back_to_top_text: 返回顶部
 color_scheme: light
 aux_links: {}
-footer_content: "朋友写给朋友的深圳攻略"
+footer_content: "Creeper998 · GitHub Projects"
